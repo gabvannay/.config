@@ -12,7 +12,7 @@
 * Or use your package manager...
 
 ```bash
-# I use Arch btw
+# I use EndeavourOS btw
 sudo pacman -S neovim
 ```
 
